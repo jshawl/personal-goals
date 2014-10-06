@@ -4,44 +4,38 @@ personal-goals
 Personal goals made public. I want to take time out of my day and plan a schedule to accomplish these goals.
 
 # Overarching Goals
-1. Use Github more often
-2. Contribute to Open Source
-3. Write more blogs
-4. Increase project efficiency
-5. Use the command line & keyboard for as much as possible
-6. Get better at javascript (patterns, Angular, Node)
-7. Learn about testing
+1. Make more Open Source contributions
+2. Write more blogs / share more lessons learned
+3. Ship a product that makes passive income
+4. Increase proficiency in a compiled language
+5. Build a useful CLI tool
 
 ## Things I'll Do This Week: October 6, 2014
-- Schedule time to focus on this list
-- Set up FED community learning sessions at work
-- Create gulp setup for unakravets.com 
-- Search Open Source projects with the need design tag
-- Check up on new Sass meetups
+- Refactor the CSS of a mobile unfriendly OSS project
+- Write one blog post
+- Build a micro site with ads
 
 ### Things I'll Do This Month: October 2014
-- Internal Jekyll training
-- Set Up FED Play Date topics
-- Set up yeoman generator
-- Learn about web scraping with node
+- Redesign my personal blog
+- Ship a JS plugin
+- Start a new blog on either
+  - philosophy and code
+  - teaching
+  - personal things 
 
 ### Code Things I Want to Do/Play With List
-1. Create yeoman generator
-2. Move sites off of 1and1 -- configure servers for gzipping
-3. Go through this talk I missed: http://anthonydispezio.com/sassconf2014/
-4. Get Living Style Guide working on portfolio https://github.com/hagenburger/livingstyleguide
-5. Re-configure this article for contribution (sections for Reading List, etc.)
-6. Figure out web scraping for v2 of sassme (also, rename sassme)
-7. CodeSchool Advanced JS course
-8. Node web scraper
+1. Move everything on heroku to digital ocean
+2. Go through this talk: http://anthonydispezio.com/sassconf2014/
+3. CodeSchool Advanced JS course
+4. http://emberjs.com/
+
 
 ### Reading List
-1. http://www.filamentgroup.com/lab/performance-rwd.html
-2. http://elifitch.com/blog/simple-web-scraping-node/
+1. http://superherojs.com/
+2. http://www.bootstrappers.io/
 
 ### Blog Post Ideas
-1. Designers in the Open Source Community
-2. How I sped my site up / moving servers process (once it happens)
-3. SVG icons theme map demo
-4. The effect of framing on personal work
-
+1. Stop rebasing
+2. Walking to work
+3. Prototypal Inheritance and Platonic Forms
+4. Universals, particulars, and CSS Class names
